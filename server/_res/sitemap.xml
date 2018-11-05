@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://purplefacts.com/</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/about</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/blog</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/resources</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/sell</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/resources/request-property-quote</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/invest</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/resources/schedule-call</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/contact</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/signup</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/blog/how-to-estimate-repair-cost</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/blog/how-to-use-the-repair-cost-calculator</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/careers</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/legal/privacy-policy</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/resources/repair-cost-calculator</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/resources/library</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://purplefacts.com/legal/terms-of-service</loc>
+  <lastmod>2018-08-06T23:29:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+</urlset>

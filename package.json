@@ -1,0 +1,42 @@
+{
+  "name": "purple-facts",
+  "version": "1.0.0",
+  "description": "Purple Facts - Real Estate Investinng in the Age of Technology",
+  "main": "index.js",
+  "author": "idp",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon --watch server server/index.js",
+    "prestart": "next build",
+    "start": "NODE_ENV=production node server/index.js",
+    "dockerize": "docker build -t purplefacts .",
+    "docker": "docker run -d -p 3000:3000 --name purplefacts purplefacts",
+    "prearchive": "rm -rf .next node_modules",
+    "archive": "zip -r \"`DATE`.zip\" *",
+    "postarchive": "yarn install",
+    "build": "next build",
+    "deploy": "NODE_ENV=production PORT=80 node server/index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "body-parser": "^1.18.3",
+    "draft-js": "^0.10.5",
+    "express": "^4.16.3",
+    "isomorphic-unfetch": "^2.0.0",
+    "jsonwebtoken": "^8.3.0",
+    "mongodb": "^3.1.1",
+    "next": "^6.1.2",
+    "nodemailer": "^4.6.7",
+    "react": "^16.4.1",
+    "react-color": "^2.14.1",
+    "react-dom": "^16.4.1",
+    "react-helmet": "^5.2.0",
+    "react-rte": "^0.16.1",
+    "react-scroll": "^1.7.10",
+    "styled-components": "^3.3.3"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.5.1",
+    "nodemon": "^1.18.2"
+  }
+}

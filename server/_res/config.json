@@ -1,0 +1,10 @@
+{
+    "adminApiKey" : "API_KEY",
+    "adminJWTSecret" : "JWT_SECRET",
+    "hashSalt" : "HASH_SALT",
+    "mongo" : {
+        "db" : "PurpleFacts",
+        "user" : "pf-admin",
+        "password" : "DB_PASSWORD"
+    }
+}

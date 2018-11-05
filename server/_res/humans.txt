@@ -1,0 +1,11 @@
+/* TEAM */
+
+Igor de Paula
+igor@purplefacts.com
+igorp1.github.io
+Boston, MA
+
+/* SOFTWARE */
+
+Technologies : React, NextJS, Node
+Built in VS Code
